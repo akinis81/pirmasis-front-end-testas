@@ -1,0 +1,25 @@
+div{
+    display: inline-block;
+    width: 100%;
+    background-color: aquamarine;
+    text-align: center;
+    font-size: 60px;
+}
+/* klasiu nenaudoju nes aiskus tagai  */
+h1{
+
+    display: inline-block;
+    width: 100%;
+    font-size: 60px;
+    color: red;
+    font-weight: 900;
+    /* background-color: rosybrown; */
+    }
+
+   div> p{
+    display: inline-block;
+    width: 50%;
+    /* background-color: seagreen; */
+    font-size: large    ;
+    color: slateblue;
+    }
