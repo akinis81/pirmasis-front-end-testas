@@ -4,6 +4,7 @@ div{
     background-color: aquamarine;
     text-align: center;
     font-size: 60px;
+    color: red;
 }
 /* klasiu nenaudoju nes aiskus tagai  */
 h1{
@@ -11,7 +12,7 @@ h1{
     display: inline-block;
     width: 100%;
     font-size: 60px;
-    color: red;
+    /* color: red; */
     font-weight: 900;
     /* background-color: rosybrown; */
     }
